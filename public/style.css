@@ -1,0 +1,11 @@
+.boderbox {
+    height: 100%;
+    border: 1px solid red;
+}
+
+body {
+    background-color: green;
+    height: 50%;
+    width: 50%;
+    align-items: center;
+}
